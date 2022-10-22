@@ -1,0 +1,24 @@
+'''
+Assigment-2 : Q.3
+Write a program which accept one number from user and return its factorial.
+Input:  5
+Output: 120
+'''
+
+'''
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Function name: fact()
+Description: factorial of number
+Input: int[IN]
+Output: int
+Author: Aishwarya (08-10-2022)
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+'''
+
+def fact(v1):
+    f = 1
+    for i in range(1, v1+1):
+        f = f * i
+    return f
+
+
