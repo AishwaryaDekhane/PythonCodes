@@ -1,0 +1,2 @@
+We have to check word count for given string in this question
+This is question number Q-5. We are repeating words like - word , question , string , count , number 
